@@ -1,0 +1,17 @@
+@import "./schema.css";
+
+* {
+    font-family: 'Roboto', sans-serif;
+
+    text-align: center;
+    text-shadow: 1px 1px 4px black;
+    user-select: none;
+}
+
+body {
+    display: flex;
+    place-items: center;
+    min-width: 256px;
+    height: 500px;
+    background-color: #181818;
+}

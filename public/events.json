@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "start": 9,
+            "end": 10,
+            "color": "#622",
+            "name": "Intro"
+        },
+        {
+            "start": 10.5,
+            "end": 21,
+            "color": "#262",
+            "name": "Kod"
+        }
+    ],
+    [
+        {
+            "start": 9,
+            "end": 12,
+            "color": "#262",
+            "name": "Kod"
+        },
+        {
+            "start": 12.25,
+            "end": 13,
+            "color": "#622",
+            "name": "Lunch"
+        },
+        {
+            "start": 13.5,
+            "end": 21,
+            "color": "#262",
+            "name": "Kod"
+        }
+    ],
+    [
+        {
+            "start": 9,
+            "end": 13,
+            "color": "#262",
+            "name": "Kod"
+        },
+        {
+            "start": 13,
+            "end": 14,
+            "color": "#266",
+            "name": "Presentation"
+        }
+    ]
+]

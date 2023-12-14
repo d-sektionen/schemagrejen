@@ -1,0 +1,38 @@
+#main {
+    background-color: #333;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 64px;
+    width: 100%;
+    max-width: 800px;
+    min-height: 80vh;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    border: 1px #888 solid;
+}
+
+.day {
+    margin: 20px;
+    background-color: #222;
+    border-radius: 6px;
+    padding: 8px;
+    width: 30%;
+    border: 1px #666 solid;
+    color: #fffa;
+    font-size: 22px;
+    position: relative;
+}
+
+.event {
+    position: absolute;
+    margin: 4px;
+    background-color: #822;
+    border-radius: 4px;
+    padding: 8px;
+    width: calc(100% - 24px);
+    border: 1px #666 solid;
+    color: #fff;
+    font-size: 16px;
+    box-sizing: border-box;
+}
